@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666573817 source:c:\users\leonel\desktop\utn\programacion\clases\abm simple\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
